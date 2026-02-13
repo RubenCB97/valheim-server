@@ -1,1 +1,1 @@
-FROM lloesche/valheim-server:latest
+FROM mbround18/valheim:latest
